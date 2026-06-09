@@ -2,6 +2,7 @@
 <img width="225" height="225" alt="17810296355602393213539053469022" src="https://github.com/user-attachments/assets/42ab69f4-8aac-4a0a-990c-73c8bc8552e3" />
 <img width="192" height="240" alt="17810300927792860478699429216304" src="https://github.com/user-attachments/assets/3d27f5d3-d972-4a3f-adea-1e6cf42849f3" />
 <img width="225" height="224" alt="17810301861545406251506385403672" src="https://github.com/user-attachments/assets/eb946792-7b82-445c-802e-af1f4fd3879d" />
+<img width="350" height="380" alt="17810303928193175030679409224015" src="https://github.com/user-attachments/assets/ff8ddc34-2f1a-4bb2-a26a-eabd9176fc54" />
 
 <!--
 **Sr-Logan/Sr-Logan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

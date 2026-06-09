@@ -1,4 +1,4 @@
-## Hi there 👋
+## Boa dia, bom tarde e bom noite vós/"meceis"
 
 <!--
 **Sr-Logan/Sr-Logan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

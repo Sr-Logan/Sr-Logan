@@ -1,4 +1,6 @@
 ## Boa dia, bom tarde e bom noite vós/"meceis"
+<img width="225" height="225" alt="17810296355602393213539053469022" src="https://github.com/user-attachments/assets/42ab69f4-8aac-4a0a-990c-73c8bc8552e3" />
+
 
 <!--
 **Sr-Logan/Sr-Logan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
